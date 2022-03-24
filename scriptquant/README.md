@@ -21,9 +21,9 @@ https://www.3dhistech.com/research/quantcenter/
 
 3. Launch ScriptQuant from the QuantCenter menu.
 
-4. Select scriptquant/gauss_unet.py from File>import.
+4. Select scriptquant/gaussunet.py from File>import.
 
-5. Set the detection threshold between 0~255 (default: 128).
+5. Set the detection threshold between 0~255 (default: 60).
 
 6. Press the Next button and then press Start measurement.
 
